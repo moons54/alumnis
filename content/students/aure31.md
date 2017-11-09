@@ -17,7 +17,7 @@ short_description: dans le secteur bancaire depuis 14 ans l’objectif est de pr
 
 # don't touch that
 template: students
-description: Mon nom est aurélien mimouni j'ai 40 ans et je souhaite apprendre à coder en java avec OpenClassRooms.
+description: Mon  nom est aurélien mimouni j'ai 40 ans et je souhaite apprendre à coder en java avec OpenClassRooms.
     
 
 # image must be located in content/images/students
